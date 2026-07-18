@@ -3,9 +3,7 @@
 
 Insight Wallet is a retro-themed Ethereum wallet application that offers a gamified user experience — inspired by the Insight system from *Bloodborne*, where knowledge and progress are their own kind of currency. Users can connect their wallet, make transactions, track achievements, and level up based on their activity.
 
-> Note: update this section with your own deployment link once you've redeployed under the new name.
 
-##  make sure you star this repo ✨  ,heheheh thanks :-P
 
 ## Features
 
@@ -91,24 +89,7 @@ The project uses the following libraries and frameworks:
 - **Error Handling**: Provides user-friendly error messages for common issues like connection failure or insufficient balance.
 - **Customization**: You can easily expand the achievements system or update the retro UI styles.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 Enjoy the retro vibes with Insight Wallet! 🚀
-
----
-
-
