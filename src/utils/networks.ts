@@ -7,7 +7,7 @@ export const SEPOLIA_CONFIG = {
     symbol: 'SEP',
     decimals: 18
   },
-  rpcUrls: ['https://sepolia.infura.io/v3/'],
+  rpcUrls: ['https://ethereum-sepolia-rpc.publicnode.com'],
   blockExplorerUrls: ['https://sepolia.etherscan.io']
 };
 
